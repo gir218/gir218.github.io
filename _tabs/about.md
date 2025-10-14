@@ -4,5 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Welcome to my personal website! I am currently building this website to host content related to my experience at the intersection of science and patent law. Check back soon for updates!
